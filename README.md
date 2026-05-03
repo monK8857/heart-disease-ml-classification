@@ -207,6 +207,7 @@ data/heart.csv
 
 ## Project Structure
 
+```text
 project/
 │
 ├── data/
@@ -218,3 +219,4 @@ project/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
